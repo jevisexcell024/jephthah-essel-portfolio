@@ -1,0 +1,369 @@
+@keyframes hot {
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/powe.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/66o.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/mid.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/re.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/anim.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+
+
+
+
+
+  @keyframes now {
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/66o.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/reee.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/powe.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/re.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/anim.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+  
+
+  @keyframes hit {
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/anim.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/reee.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/66o.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/re.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/powe.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+
+
+
+  @keyframes kill {
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/66o.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/powe.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/reee.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/mid.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/anim.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+  
+  @keyframes rec{
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/reee.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/powe.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/re.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/teh.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/66o.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+
+  @keyframes um{
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/mid.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/powe.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/thew.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/teh.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/re.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+  
+
+  
+  @keyframes flo{
+    0%{
+        /* transition: 4s; */
+        background: url(/pix/plane.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    20%{
+        background: url(/pix/mid.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+       /* transition: 1s; */
+    }
+    40%{
+        background: url(/pix/thew.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    60%{
+        background: url(/pix/anim.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    80%{
+        background: url(/pix/leaves.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    }
+    100%{
+        background: url(/pix/66o.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        backdrop-filter: blur(50px);
+    } 
+  }
+  @keyframes animate {
+    10%{
+        background: var(--background-card);
+    }
+    20%{
+        background: rgb(15, 43, 104);
+    }
+    30%{
+        background: rgba(2, 29, 120, 0.473);
+    }
+    40%{
+        background: rgba(39, 39, 93, 0.712);
+    }
+    50%{
+        background: rgba(59, 58, 94, 0.381);
+    }
+    60%{
+        background: rgba(141, 197, 241, 0.454);
+    }
+    70%{
+        background: rgba(29, 18, 99, 0.548);
+    }
+    80%{
+        background: rgba(104, 122, 236, 0.674);
+    }
+    90%{
+        background: rgb(69, 69, 105);
+    }
+    100%{
+        background: rgba(51, 63, 88, 0.756);
+    }
+  }
